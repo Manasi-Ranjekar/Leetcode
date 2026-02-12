@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
