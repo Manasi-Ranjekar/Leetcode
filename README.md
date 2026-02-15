@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Stack
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Array
 |  |
