@@ -1,14 +1,19 @@
+import java.util.*;
 class Solution {
     public List<String> readBinaryWatch(int turnedOn) {
-        List<String> res = new ArrayList<>();
-        for(int hour=0; hour<12; hour++){
-            for(int min=0; min<60; min++){
-                int totalBit = Integer.bitCount(hour)+Integer.bitCount(min);
-                if(totalBit == turnedOn){
-                    res.add(hour + ":" + String.format("%02d",min));
+        List<String> ans = new ArrayList<>();
+        for (int hours = 0; hours < 12; hours++) {
+            for (int minutes = 0; minutes < 60; minutes++) {
+                if (Integer.bitCount(hours) + Integer.bitCount(minutes) == turnedOn) {
+                    String time = hours + ":";
+                    if (minutes < 10) {
+                        time += "0";
+                    }
+                    time += minutes;
+                    ans.add(time);
                 }
             }
         }
-        return res;
+        return ans;
     }
 }
