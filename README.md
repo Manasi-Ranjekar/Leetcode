@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
