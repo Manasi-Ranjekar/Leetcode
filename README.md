@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
