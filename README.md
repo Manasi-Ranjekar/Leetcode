@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0401-binary-watch) |
 ## Recursion
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -63,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
