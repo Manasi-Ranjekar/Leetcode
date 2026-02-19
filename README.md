@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0696-count-binary-substrings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
