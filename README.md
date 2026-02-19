@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 ## Array
