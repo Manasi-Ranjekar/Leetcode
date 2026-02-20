@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0175-combine-two-tables) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
