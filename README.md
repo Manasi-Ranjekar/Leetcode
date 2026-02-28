@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
