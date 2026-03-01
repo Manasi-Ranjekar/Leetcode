@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2235-add-two-integers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
