@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2235-add-two-integers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2235-add-two-integers) |
+| [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |
