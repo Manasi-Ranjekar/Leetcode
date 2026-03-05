@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2235-add-two-integers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2235-add-two-integers) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
