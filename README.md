@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Memoization
 |  |
 | ------- |
