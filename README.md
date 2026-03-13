@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2235-add-two-integers) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3024-type-of-triangle](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3024-type-of-triangle) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
