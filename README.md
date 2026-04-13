@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
