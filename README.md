@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
