@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
