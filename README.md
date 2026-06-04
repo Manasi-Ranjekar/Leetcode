@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Union-Find
 |  |
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
