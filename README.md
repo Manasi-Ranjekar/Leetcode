@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2751-robot-collisions) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
