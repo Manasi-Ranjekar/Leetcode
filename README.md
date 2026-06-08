@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
