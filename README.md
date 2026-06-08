@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Number Theory
@@ -390,4 +394,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0014-longest-common-prefix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
