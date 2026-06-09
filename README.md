@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0242-valid-anagram) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2573-find-the-string-with-lcp](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## String Matching
 |  |
