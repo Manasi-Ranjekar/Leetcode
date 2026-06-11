@@ -1,9 +1,7 @@
 class Solution {
     public List<List<Integer>> finalAns=new ArrayList<>();
-    public void helper(int[] nums, int index, List<Integer> combinationsFormedSoFar)
-    {
-        if(index == nums.length)
-        {
+    public void helper(int[] nums, int index, List<Integer> combinationsFormedSoFar){
+        if(index == nums.length){
             finalAns.add(new ArrayList<>(combinationsFormedSoFar));
             return;
         }
