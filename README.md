@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0204-count-primes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0509-fibonacci-number) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
