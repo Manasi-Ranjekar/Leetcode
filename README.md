@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0069-sqrtx) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/0498-diagonal-traverse) |
