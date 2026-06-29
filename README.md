@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Manasi-Ranjekar/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
